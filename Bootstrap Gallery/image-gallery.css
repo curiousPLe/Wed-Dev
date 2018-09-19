@@ -1,0 +1,19 @@
+ body { padding-top: 70px; }
+    .jumbotron {
+      color: #2c3e50;
+      background: #ecf0f1;
+      font-family: Raleway;
+    }
+    .navbar-inverse {
+      background: #2c3e50;
+      color: white;
+    }
+    .navbar-inverse .navbar-brand, .navbar-inverse a{
+      color:white;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+      color: white;
+    } 
+    .thumbnail {
+    	height: 199.14px
+    	width: 350px
